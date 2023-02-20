@@ -41,14 +41,14 @@ Based on my research, Random Forest is recommended for simple classification pro
 
 
 ***Results and thoughts in the designated markdown cell***
---Logistic Regression model score = 0.9914878250103177
---balanced_accuracy_score = 0.9823995861872097
+Logistic Regression model score = 0.9914878250103177
+balanced_accuracy_score = 0.9823995861872097
 
 ![This is an image](https://github.com/cjallow01/supervised-machine-learning-challenge/blob/main/Logistic%20Regression.png)
 
 ***Random Forest Classifier model score***
---RandomForestClassifier = 0.991642591828312
---balanced_accuracy_score = 0.9515284156142365
+RandomForestClassifier = 0.991642591828312
+balanced_accuracy_score = 0.9515284156142365
 
 
 ![This is an image](https://github.com/cjallow01/supervised-machine-learning-challenge/blob/main/Random%20Forest.png)
